@@ -1,0 +1,23 @@
+# requirements.txt
+Flask==3.0.3
+twilio==9.3.2
+africastalking==1.2.7
+langchain==0.2.17
+langchain-community==0.2.17
+langchain-huggingface==0.0.3
+transformers==4.45.2
+torch==2.4.1
+accelerate==1.0.1
+bitsandbytes==0.44.1          # For 4-bit loading if you run out of RAM/VRAM
+sentencepiece==0.2.0
+spacy==3.7.6
+assemblyai==0.33.0
+streamlit==1.39.0
+folium==0.17.0
+pandas==2.0.3
+python-dotenv==1.0.1
+Werkzeug==3.0.4
+
+# Optional but recommended for Swahili entity recognition later
+# https://github.com/explosion/spacy-models/releases/download/sw_xx_core_news_sm-3.7.0/sw_xx_core_news_sm-3.7.0-py3-none-any.whl
+# skipping this line as I will use English first
