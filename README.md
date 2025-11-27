@@ -5,7 +5,7 @@ An intelligent Swahili-first system that helps everyday Kenyans refuse and repor
 Theme: Governance & Public Policy | Combating Corruption
 
 ## Live Demo Video
-https://github.com/yourname/kitu-haina-ussd-ai/blob/main/demo/demo.mp4
+
 
 ## Why This Matters 
 - 70% of Kenyans pay bribes monthly (EACC)
@@ -32,7 +32,7 @@ NoChai turn victims into empowered whistleblowers using **voice + USSD + Swahili
 
 ## How to Run Locally (5 minutes)
 ```bash
-git clone git@github.com:bjeptum/kitu-haina-ussd-ai.git
+git clone git@github.com:bjeptum/nochai-ussd-ai.git
 cd kitu-haina-ussd-ai
 pip install -r requirements.txt
 
