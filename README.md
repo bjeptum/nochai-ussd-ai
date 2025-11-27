@@ -258,15 +258,17 @@ System: Asante! Ripoti yako imepokelewa.
 ```
 
 ## Contributing
+Currently I am the sole contributor.
+
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is open source and available under the MIT License.
+Totally free! Just give me credit for my work.
 
 ## Team
 Built for tackling corruption in Kenya through accessible technology.
 
-## 🔗 Links
+## Links
 - **GitHub:** https://github.com/bjeptum/nochai-ussd-ai
 - **Live Demo:** https://www.loom.com/share/244bae959f444167a0df709be9b78e55
 
