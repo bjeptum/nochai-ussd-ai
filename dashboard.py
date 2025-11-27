@@ -47,4 +47,4 @@ with col2:
         ).add_to(m)
     st_folium(m, width=700, height=500)
 
-st.caption("Built for Kenya AI Hackathon 2025 | Data 100% anonymous | Powered by Swahili AI")
+st.caption("Built for Kenya AI Hackathon 2025 | NoChai.Refuse. Report. Reclaim.")
