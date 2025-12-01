@@ -1,6 +1,6 @@
 # NoChai — An Intelligent Bribe Refusal Coach for Kenya
 
-An intelligent Swahili-first system that helps everyday Kenyans refuse and report micro-corruption via USSD (*384*xxxx#) and WhatsApp. 
+An intelligent Swahili-first system that helps everyday Kenyans refuse and report micro-corruption via USSD and WhatsApp. 
 
 **Theme:** Governance & Public Policy | Combating Corruption
 
